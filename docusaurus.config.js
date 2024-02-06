@@ -13,10 +13,12 @@ const config = {
   favicon: "img/favicon.svg",
 
   // Set the production url of your site here
-  url: "https://docs.flathub.org",
+  url: "https://bbhtt.github.io/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/flathub-docs/",
+  organizationName: "bbhtt",
+  projectName: "flathub-docs",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
